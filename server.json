@@ -1,0 +1,213 @@
+{
+  "products": [
+    {
+      "title": "Bolacha Nestle Passatempo",
+      "productImage": "https://www.nestle.com.br/images/default-source/produtos/passatempo-biscoito-recheado-morango.png?sfvrsn=2ff70415_6",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Bolacha Nikitos Morango",
+      "productImage": "https://io2.convertiez.com.br/m/superpaguemenos/shop/products/images/13977/medium/biscoito-recheado-nikito-chocolate-com-morango-135g_86827.png",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Bolacha Integral Tribos Cacau",
+      "productImage": "https://www.simpleskincare.com/sk-eu/content/dam/brands/mae_terra/specified_clusterscountries/1718433-7896496917709-01.png",
+      "isCertified": true,
+      "quantity": 0,
+      "certifications": [
+        {
+          "id": 1,
+          "name": "Empresa B",
+          "certificateImage": "https://www.guiadoisemeio.com.br/wp-content/uploads/2017/12/certificacao_empresa_B.png"
+        },
+        {
+          "id": 2,
+          "name": "Orgânico Brasil",
+          "certificateImage": "http://anc.org.br/wp-content/uploads/2016/02/organicoBrasil-300x141.png"
+        }
+      ]
+    },
+    {
+      "title": "Bolacha Wafer Negresco",
+      "productImage": "https://www.nestle.com.br/images/default-source/produtos/negresco-biscoito-waferbdd3d935388f45bcaee99170d65092e0.png?sfvrsn=97cbb277_2",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Bolacha Oreo Tradicional",
+      "productImage": "https://statics.angeloni.com.br/super/files/produtos/3523946/3523946_1_medium.jpg",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Bolacha Maizena Bauducco",
+      "productImage": "https://docemalu.vteximg.com.br/arquivos/ids/166169-1000-1000/102188-1.jpg?v=635826606480770000",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Bolacha Clube Social Tradicional",
+      "productImage": "https://www.mercadoqualidade.com.br/wp-content/uploads/2017/05/006107a.jpg",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Bolacha Mabel Rosquinas de Coco",
+      "productImage": "https://a-static.mlcdn.com.br/1500x1500/rosquinha-mabel-sabor-coco-pct-800g/castronaves/7970/47390063a6ca6a9d6e2391579acb10c8.jpg",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    },
+    {
+      "title": "Biscoito Zooreta Integral",
+      "productImage": "https://images.tcdn.com.br/img/img_prod/738124/biscoito_zooreta_organico_e_integral_mae_terra_cacau_contendo_20g_29047064_1_20191222170708.jpg",
+      "isCertified": true,
+      "quantity": 0,
+      "certifications": [
+        {
+          "id": 1,
+          "name": "Empresa B",
+          "certificateImage": "https://www.guiadoisemeio.com.br/wp-content/uploads/2017/12/certificacao_empresa_B.png"
+        }
+      ]
+    },
+    {
+      "title": "Bolacha Bono Morango",
+      "productImage": "https://www.nestle.com.br/images/default-source/produtos/biscoito-bono-recheado-morango.png?sfvrsn=f31f556a_8",
+      "isCertified": false,
+      "quantity": 0,
+      "certifications": []
+    }
+  ],
+  "markets": [
+    {
+      "id": 1,
+      "title": "Super Mercado Dia",
+      "isCertified": true,
+      "latitude": -23.53503,
+      "longitude": -46.6413426,
+      "adress": "Av. Duque de Caxias, 925 - Campos Elíseos, São Paulo - SP, 01214-100",
+      "isOpened": true,
+      "isRecomended": true,
+      "stars": "★★★",
+      "avaliationsQuantity": 17
+    },
+    {
+      "id": 2,
+      "title": "Extra Super Mercado",
+      "isCertified": false,
+      "latitude": -23.5385952,
+      "longitude": -46.6451505,
+      "adress": "Av. Duque de Caxias, 388 - Campos Elíseos, São Paulo - SP, 01214-000",
+      "isOpened": true,
+      "isRecomended": false,
+      "stars": "★★★★",
+      "avaliationsQuantity": 2
+    },
+    {
+      "id": 3,
+      "title": "Pão de Açucar",
+      "isCertified": true,
+      "latitude": -23.5391515,
+      "longitude": -46.6492673,
+      "adress": "R. Conselheiro Nébias, 1039 - Campos Elíseos, São Paulo - SP, 01203-002",
+      "isOpened": true,
+      "isRecomended": true,
+      "stars": "★★★★★",
+      "avaliationsQuantity": 69
+    },
+    {
+      "id": 4,
+      "title": "Super Mercado Guanabara",
+      "isCertified": true,
+      "latitude": -23.5334096,
+      "longitude": -46.6461101,
+      "adress": "R. dos Guaianazes, 1128 - Campos Elíseos, São Paulo - SP, 01204-001",
+      "isOpened": true,
+      "isRecomended": true,
+      "stars": "★★★★★",
+      "avaliationsQuantity": 41
+    },
+    {
+      "id": 5,
+      "title": "Mercado Sonda",
+      "isCertified": false,
+      "latitude": -23.535945,
+      "longitude": -46.648056,
+      "adress": "Alameda Glete, 822 - Campos Elíseos, São Paulo - SP, 01215-001",
+      "isOpened": true,
+      "isRecomended": false,
+      "stars": "★★★★",
+      "avaliationsQuantity": 18
+    },
+    {
+      "id": 6,
+      "title": "Oba Hortifuti",
+      "isCertified": true,
+      "latitude": -23.5385477,
+      "longitude": -46.654568,
+      "adress": "Av. Angélica, 635 - Santa Cecilia, São Paulo - SP, 01227-000",
+      "isOpened": true,
+      "isRecomended": true,
+      "stars": "★★★★",
+      "avaliationsQuantity": 73
+    },
+    {
+      "id": 7,
+      "title": "Sacolão Saúde",
+      "isCertified": false,
+      "latitude": -23.5332748,
+      "longitude": -46.6537109,
+      "adress": "R. Brg. Galvão, 118 - Santa Cecilia, São Paulo - SP, 01401-901",
+      "isOpened": false,
+      "isRecomended": false,
+      "stars": "★★★★★",
+      "avaliationsQuantity": 162
+    },
+    {
+      "id": 8,
+      "title": "Mercado Uemura",
+      "isCertified": false,
+      "latitude": -23.5234091,
+      "longitude": -46.6450734,
+      "adress": "R. Jaraguá, 475 - Bom Retiro, São Paulo - SP, 01129-000",
+      "isOpened": true,
+      "isRecomended": false,
+      "stars": "★★",
+      "avaliationsQuantity": 3
+    },
+    {
+      "id": 9,
+      "title": "Mercado Bom Barato",
+      "isCertified": false,
+      "latitude": -23.5249352,
+      "longitude": -46.6551175,
+      "adress": "R. Dr. Ribeiro de Almeida, 365 - Barra Funda, São Paulo - SP, 01137-020",
+      "isOpened": true,
+      "isRecomended": false,
+      "stars": "★★★",
+      "avaliationsQuantity": 8
+    },
+    {
+      "id": 10,
+      "title": "Mini Mercado Extra",
+      "isCertified": false,
+      "latitude": -23.5440158,
+      "longitude": -46.6423795,
+      "adress": "Praça da República, 130-198 - República, São Paulo - SP",
+      "isOpened": false,
+      "isRecomended": false,
+      "stars": "★★★★",
+      "avaliationsQuantity": 64
+    }
+  ]
+}
